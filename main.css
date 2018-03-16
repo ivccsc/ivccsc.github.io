@@ -1,0 +1,10 @@
+font-family: 'Roboto', sans-serif;
+font-family: 'IBM Plex Sans', sans-serif;
+
+h1{
+    font:30pt/1 Roboto, bold, sans-serif;
+  }
+  
+body {
+  font:20pt/1 IBM Plex Sans, bold, sans-serif;
+}
